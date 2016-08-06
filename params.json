@@ -1,0 +1,6 @@
+{
+  "name": "SchoolFinder",
+  "tagline": "Find information on any school in the USA.",
+  "body": "### About SchoolFinder\r\nIt was written as an SPA (single page application) site used to demo the capabilities of AngularJS, NodeJS, Bootstrap and jQuery. \r\n\r\n### Source\r\nThe source of its data is the Institue of Education Science - National Center for Education Statisitics (NCES) and contains public school data from the 2013-2014, 2014-2015 school years.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
